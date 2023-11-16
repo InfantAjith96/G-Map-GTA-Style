@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_map">#396731</color>
+    <color name="status">#95856c</color>
+    <color name="one">#748837</color>
+    <color name="business">#428f35</color>
+    <color name="sports_complex">#396731</color>
+    <color name="road">#050604</color>
+    <color name="road2">#95856c</color>
+    <color name="road3">#363636</color>
+    <color name="transit">#989898</color>
+    <color name="transit2">#050604</color>
+    <color name="transit3">#636363</color>
+    <color name="water">#6e87a8</color>
+    <color name="administrative_country">#aa9e88</color>
+    <color name="administrative_country2">#353833</color>
+    <color name="administrative_country3">#396731</color>
+    <color name="administrative_country4">#2f322a</color>
+    <color name="landscape">#396731</color>
+    <color name="landscape2">#95856c</color>
+    <color name="poi">#748837</color>
+    <color name="poi2">#428f35</color>
+    <color name="poi3">#db3f4d</color>
+    <color name="poi4">#396731</color>
+</resources>

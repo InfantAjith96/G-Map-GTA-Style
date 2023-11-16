@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">G Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBZ0u4P5WMA689ZCxOiGpxO-jboOSvZLNk</string>
+</resources>
